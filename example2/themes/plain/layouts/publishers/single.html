@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h5>{{ .Title }}</h5>
+
+<h6>Detalle Director</h6>
+<table>
+<tr><td><b>Nacionalidad</b><td><td>{{ .Params.country}}</td></tr>
+<tr><td><b>Cumpleaños</b><td><td>{{ .Params.founded}}</td></tr>
+</table>
+<h6>Peliculas</H6>
+<h6>Biografia</h6>
+
+{{ .Content }}
+{{ end }}
+
+
+

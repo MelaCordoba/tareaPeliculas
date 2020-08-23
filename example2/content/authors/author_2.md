@@ -1,0 +1,12 @@
+---
+authorId: author_2
+title: Orlando Bloom
+nationality: Británica
+birth: 13/01/1977
+fields: [ "Database systems", "Operating systems"]
+booksId: [ book_1, book_2]
+---
+
+Viggo Peter Mortensen (Nueva York, 20 de octubre de 1958) es un actor de cine estadounidense de ascendencia danesa y residente durante su infancia en Argentina, razón por la que habla español con fluidez. Por sus interpretaciones ha sido nominado en tres ocasiones a los Premios Óscar, en cuatro a los Premios Globo de Oro y una vez a los premios Goya. También ejerce como poeta, músico, fotógrafo y pintor. En la actualidad tiene nacionalidad estadounidense, danesa y argentina.
+Viggo nació en el Lower East Side de Manhattan, el 20 de octubre de 1958. Su padre es danés y su madre estadounidense —su abuelo materno era de Nueva Escocia (Canadá) y su abuela materna de Nueva Inglaterra (Estados Unidos)—. La pareja se había conocido en Noruega y se casaron en los Países Bajos, en una ceremonia luterana. A pesar de que en Dinamarca su familia paterna era ganadera, su padre se dedicó a los negocios y, con la esperanza de hacer fortuna, en 1960 se trasladó con su familia (Viggo tiene dos hermanos más jóvenes) a América del Sur. La familia se desplazaría a Buenos Aires, en Argentina, pasando a menudo las vacaciones de vuelta en Dinamarca, en la granja familiar Mortensen. La familia se asentó finalmente en Argentina, en donde Mortensen vivió hasta los once años, en la provincia del Chaco, Buenos Aires y Córdoba. Cuando tenía seis o siete años, Viggo comenzó a escribir sus primeros «cuentitos cortos». Allí aprendió el castellano con acento rioplatense. Tras el divorcio de sus padres, regresó a Nueva York con su madre y sus dos hermanos. Allí se graduó en Política y Español en la Universidad de Saint Lawrence en 1980.
+Tras dos años en los que vivió en Dinamarca sin haber decidido aún su carrera profesional, regresó a Manhattan para finalmente estudiar interpretación en el Warren Robertson's Theatre Workshop. Dedicó unos cuantos años al teatro, primero en Nueva York y más tarde en Los Ángeles, donde gracias a su interpretación en la obra Bent recibió el Dramalogue Critics' Award.
